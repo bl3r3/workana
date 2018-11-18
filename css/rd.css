@@ -120,10 +120,3 @@
   fill: currentColor;
 }
 
-@media screen and (max-width: 450px){
-  #cart_box{
-  width: 100%;
-  margin-bottom: 0;
-  height: 100%;
-}
-}
